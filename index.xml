@@ -355,23 +355,23 @@ font-style: inherit;">"Troy Trojans"</span></span>
 <span id="cb1-62">)</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
-<div id="ddahsqywvp" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#ddahsqywvp table {
+<div id="wxbjobtora" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#wxbjobtora table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#ddahsqywvp thead, #ddahsqywvp tbody, #ddahsqywvp tfoot, #ddahsqywvp tr, #ddahsqywvp td, #ddahsqywvp th {
+#wxbjobtora thead, #wxbjobtora tbody, #wxbjobtora tfoot, #wxbjobtora tr, #wxbjobtora td, #wxbjobtora th {
   border-style: none;
 }
 
-#ddahsqywvp p {
+#wxbjobtora p {
   margin: 0;
   padding: 0;
 }
 
-#ddahsqywvp .gt_table {
+#wxbjobtora .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -397,12 +397,12 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-left-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_caption {
+#wxbjobtora .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#ddahsqywvp .gt_title {
+#wxbjobtora .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -414,7 +414,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-bottom-width: 0;
 }
 
-#ddahsqywvp .gt_subtitle {
+#wxbjobtora .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -426,7 +426,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-top-width: 0;
 }
 
-#ddahsqywvp .gt_heading {
+#wxbjobtora .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -438,13 +438,13 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_bottom_border {
+#wxbjobtora .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_col_headings {
+#wxbjobtora .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -459,7 +459,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_col_heading {
+#wxbjobtora .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -479,7 +479,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   overflow-x: hidden;
 }
 
-#ddahsqywvp .gt_column_spanner_outer {
+#wxbjobtora .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -491,15 +491,15 @@ font-style: inherit;">"Troy Trojans"</span></span>
   padding-right: 4px;
 }
 
-#ddahsqywvp .gt_column_spanner_outer:first-child {
+#wxbjobtora .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ddahsqywvp .gt_column_spanner_outer:last-child {
+#wxbjobtora .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ddahsqywvp .gt_column_spanner {
+#wxbjobtora .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -511,11 +511,11 @@ font-style: inherit;">"Troy Trojans"</span></span>
   width: 100%;
 }
 
-#ddahsqywvp .gt_spanner_row {
+#wxbjobtora .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#ddahsqywvp .gt_group_heading {
+#wxbjobtora .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -541,7 +541,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   text-align: left;
 }
 
-#ddahsqywvp .gt_empty_group_heading {
+#wxbjobtora .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -556,15 +556,15 @@ font-style: inherit;">"Troy Trojans"</span></span>
   vertical-align: middle;
 }
 
-#ddahsqywvp .gt_from_md > :first-child {
+#wxbjobtora .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ddahsqywvp .gt_from_md > :last-child {
+#wxbjobtora .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ddahsqywvp .gt_row {
+#wxbjobtora .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -583,7 +583,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   overflow-x: hidden;
 }
 
-#ddahsqywvp .gt_stub {
+#wxbjobtora .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -596,7 +596,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   padding-right: 5px;
 }
 
-#ddahsqywvp .gt_stub_row_group {
+#wxbjobtora .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -610,15 +610,15 @@ font-style: inherit;">"Troy Trojans"</span></span>
   vertical-align: top;
 }
 
-#ddahsqywvp .gt_row_group_first td {
+#wxbjobtora .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#ddahsqywvp .gt_row_group_first th {
+#wxbjobtora .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#ddahsqywvp .gt_summary_row {
+#wxbjobtora .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -628,16 +628,16 @@ font-style: inherit;">"Troy Trojans"</span></span>
   padding-right: 5px;
 }
 
-#ddahsqywvp .gt_first_summary_row {
+#wxbjobtora .gt_first_summary_row {
   border-top-style: none;
   border-top-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_first_summary_row.thick {
+#wxbjobtora .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#ddahsqywvp .gt_last_summary_row {
+#wxbjobtora .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -647,7 +647,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_grand_summary_row {
+#wxbjobtora .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -657,7 +657,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   padding-right: 5px;
 }
 
-#ddahsqywvp .gt_first_grand_summary_row {
+#wxbjobtora .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -667,7 +667,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-top-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_last_grand_summary_row_top {
+#wxbjobtora .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -677,11 +677,11 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_striped {
+#wxbjobtora .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ddahsqywvp .gt_table_body {
+#wxbjobtora .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -690,7 +690,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_footnotes {
+#wxbjobtora .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -704,7 +704,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_footnote {
+#wxbjobtora .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -713,7 +713,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   padding-right: 5px;
 }
 
-#ddahsqywvp .gt_sourcenotes {
+#wxbjobtora .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -727,7 +727,7 @@ font-style: inherit;">"Troy Trojans"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ddahsqywvp .gt_sourcenote {
+#wxbjobtora .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -735,72 +735,72 @@ font-style: inherit;">"Troy Trojans"</span></span>
   padding-right: 5px;
 }
 
-#ddahsqywvp .gt_left {
+#wxbjobtora .gt_left {
   text-align: left;
 }
 
-#ddahsqywvp .gt_center {
+#wxbjobtora .gt_center {
   text-align: center;
 }
 
-#ddahsqywvp .gt_right {
+#wxbjobtora .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ddahsqywvp .gt_font_normal {
+#wxbjobtora .gt_font_normal {
   font-weight: normal;
 }
 
-#ddahsqywvp .gt_font_bold {
+#wxbjobtora .gt_font_bold {
   font-weight: bold;
 }
 
-#ddahsqywvp .gt_font_italic {
+#wxbjobtora .gt_font_italic {
   font-style: italic;
 }
 
-#ddahsqywvp .gt_super {
+#wxbjobtora .gt_super {
   font-size: 65%;
 }
 
-#ddahsqywvp .gt_footnote_marks {
+#wxbjobtora .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#ddahsqywvp .gt_asterisk {
+#wxbjobtora .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#ddahsqywvp .gt_indent_1 {
+#wxbjobtora .gt_indent_1 {
   text-indent: 5px;
 }
 
-#ddahsqywvp .gt_indent_2 {
+#wxbjobtora .gt_indent_2 {
   text-indent: 10px;
 }
 
-#ddahsqywvp .gt_indent_3 {
+#wxbjobtora .gt_indent_3 {
   text-indent: 15px;
 }
 
-#ddahsqywvp .gt_indent_4 {
+#wxbjobtora .gt_indent_4 {
   text-indent: 20px;
 }
 
-#ddahsqywvp .gt_indent_5 {
+#wxbjobtora .gt_indent_5 {
   text-indent: 25px;
 }
 
-#ddahsqywvp .katex-display {
+#wxbjobtora .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#ddahsqywvp div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#wxbjobtora div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -1067,24 +1067,11 @@ font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">read_csv</span>(<span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"wnbaawards.csv"</span>)</span></code></pre></div></div>
-</details>
-<div class="cell-output cell-output-stderr">
-<pre><code>Rows: 21 Columns: 4
-── Column specification ────────────────────────────────────────────────────────
-Delimiter: ","
-chr (3): award, team, player
-dbl (1): year
-
-ℹ Use `spec()` to retrieve the full column specification for this data.
-ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
-</div>
-<details class="code-fold">
-<summary>Code</summary>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1">awards <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">"wnbaawards.csv"</span>)</span>
+<span id="cb3-2">awards <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">|&gt;</span> </span>
-<span id="cb5-2">  <span class="fu" style="color: #4758AB;
+<span id="cb3-3">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">group_by</span>(year)</span></code></pre></div></div>
 </details>
@@ -1107,26 +1094,26 @@ font-style: inherit;">group_by</span>(year)</span></code></pre></div></div>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1">cc <span class="ot" style="color: #003B4F;
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1">cc <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> awards <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">|&gt;</span> </span>
-<span id="cb7-2">  <span class="fu" style="color: #4758AB;
+<span id="cb5-2">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">filter</span>(</span>
-<span id="cb7-3">    team <span class="sc" style="color: #5E5E5E;
+<span id="cb5-3">    team <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">==</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Indiana Fever"</span></span>
-<span id="cb7-4">  )</span>
-<span id="cb7-5"><span class="fu" style="color: #4758AB;
+<span id="cb5-4">  )</span>
+<span id="cb5-5"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">ggplot</span>()<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb7-6">  <span class="fu" style="color: #4758AB;
+<span id="cb5-6">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_bar</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -1137,7 +1124,7 @@ background-color: null;
 font-style: inherit;">x=</span>team))<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb7-7">  <span class="fu" style="color: #4758AB;
+<span id="cb5-7">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_bar</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -1152,30 +1139,30 @@ background-color: null;
 font-style: inherit;">"#C8102E"</span>)<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb7-8">  <span class="fu" style="color: #4758AB;
+<span id="cb5-8">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">coord_flip</span>()<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span> </span>
-<span id="cb7-9">  <span class="fu" style="color: #4758AB;
+<span id="cb5-9">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">labs</span>(</span>
-<span id="cb7-10">    <span class="at" style="color: #657422;
+<span id="cb5-10">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">""</span>, </span>
-<span id="cb7-11">    <span class="at" style="color: #657422;
+<span id="cb5-11">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">y=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Number of Awards"</span>, </span>
-<span id="cb7-12">    <span class="at" style="color: #657422;
+<span id="cb5-12">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">title=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Awards per team from the past 10 years"</span>, </span>
-<span id="cb7-13">    <span class="at" style="color: #657422;
+<span id="cb5-13">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -1184,23 +1171,23 @@ background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">Indiana Fever, who current women's basketball phenomenom, Caitlin Clark, plays for. Clark earned ROTY in 2024."</span>, </span>
-<span id="cb7-14">    <span class="at" style="color: #657422;
+<span id="cb5-14">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Source: Across the Timeline: WNBA Awards | By Avery Regier"</span></span>
-<span id="cb7-15">    )<span class="sc" style="color: #5E5E5E;
+<span id="cb5-15">    )<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb7-16">  <span class="fu" style="color: #4758AB;
+<span id="cb5-16">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span> </span>
-<span id="cb7-17">  <span class="fu" style="color: #4758AB;
+<span id="cb5-17">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme</span>(</span>
-<span id="cb7-18">    <span class="at" style="color: #657422;
+<span id="cb5-18">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -1213,7 +1200,7 @@ background-color: null;
 font-style: inherit;">face =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"bold"</span>),</span>
-<span id="cb7-19">    <span class="at" style="color: #657422;
+<span id="cb5-19">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">axis.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -1222,7 +1209,7 @@ background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">8</span>), </span>
-<span id="cb7-20">    <span class="at" style="color: #657422;
+<span id="cb5-20">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.subtitle =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -1231,17 +1218,17 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">10</span>), </span>
-<span id="cb7-21">    <span class="at" style="color: #657422;
+<span id="cb5-21">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">panel.grid.minor =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">element_blank</span>(),</span>
-<span id="cb7-22">    <span class="at" style="color: #657422;
+<span id="cb5-22">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"plot"</span></span>
-<span id="cb7-23">    )</span></code></pre></div></div>
+<span id="cb5-23">    )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -1331,7 +1318,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/the-packers-are-better-than-the-bears/</guid>
-  <pubDate>Fri, 24 Apr 2026 14:34:37 GMT</pubDate>
+  <pubDate>Fri, 24 Apr 2026 14:37:01 GMT</pubDate>
 </item>
 </channel>
 </rss>
